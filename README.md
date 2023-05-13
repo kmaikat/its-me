@@ -5,5 +5,5 @@ hello! this is the readme for my personal site.
 </p>
 
 <p align="center">
-  live site <a href="https://kmaikat.github.io/its-me/">here</a>
+  live site <a href="https://kmaikat.github.io/">here</a>
 </p>
